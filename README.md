@@ -11,7 +11,7 @@ A browser bookmarklet which fills your page text fields with long texts, to chec
 7. Confirm
 
 # Use
-1. Click on the bookmarklet link/button
+1. Click on the "Check Text Overflow" link/button
 2. A prompt will ask you for the length of the string to insert
 3. Confirm
 4. Look and see!
