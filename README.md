@@ -1,5 +1,5 @@
 # overflow-bookmarklet
-A browser bookmarklet which fills your page text fields with long texts, to check for overflows
+A browser bookmarklet which fills all the text fields in the current page with long texts, to check for unpretty overflows
 
 # Installation
 1. Go to [the code file](https://raw.githubusercontent.com/ramtob/overflow-bookmark/master/dist/overflow-bookmark.js)
