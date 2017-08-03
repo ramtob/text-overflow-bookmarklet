@@ -9,4 +9,4 @@ Follow the instructions [here](https://www.dropbox.com/s/izvnrk7y74petuq/install
 2. Click on the "Check Text Overflow" link/button
 3. A prompt will ask you for the length of the string to insert
 4. Confirm
-5. Look at the page and see!
+5. Look at the page and see, whether there are unpretty text overflows
