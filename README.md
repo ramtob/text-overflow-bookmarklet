@@ -2,7 +2,7 @@
 A browser bookmarklet which fills all the text fields in the current page with long texts, to check for unpretty overflows
 
 # Installation
-Follow the instructions [here](https://www.dropbox.com/s/izvnrk7y74petuq/install%20text-overflow-bookmarklet.html?dl=0)
+Open [this page](https://www.dropbox.com/s/izvnrk7y74petuq/install%20text-overflow-bookmarklet.html?dl=0) in a new tab, and follow the instructions.
 
 # Use
 1. Surf to any page
