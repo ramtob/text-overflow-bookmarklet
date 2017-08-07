@@ -1,5 +1,5 @@
 # overflow-bookmarklet
-A browser bookmarklet which fills all the text fields in the current page with long texts, to check for unpretty overflows
+For web developers. This browser bookmarklet will fill all the text fields in the current page with long texts, to check for unpretty overflows. If there are such overflows, you may want to fix the styling of the page.
 
 # Installation
 Open [this link](https://ramtob.000webhostapp.com/install-bookmarklet.html) in a new tab, and follow the instructions.
