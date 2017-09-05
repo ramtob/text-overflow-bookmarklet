@@ -2,7 +2,7 @@
 For web developers. This browser bookmarklet will fill all the text fields in the current page with random character strings of specified length, to check for unpretty overflows. If there are such overflows, you may want to fix the styling of the page.
 
 # Installation
-Open [this link](https://ramtob.000webhostapp.com/install-bookmarklet.html) in a new tab, and follow the instructions.
+Open [this link](https://ramtob.github.io/text-overflow-bookmarklet/) and follow the instructions.
 
 # Use
 1. Surf to any page
